@@ -4,7 +4,7 @@ Simple Storage contract storing a global favorite Number and mapping correspondi
 
 to run files locally
 ```
-git clone 
+git clone https://github.com/Sigma2345/Simple-Storage-Contract-Hardhat.git
 ```
 
 install node modules
